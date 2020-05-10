@@ -1,0 +1,29 @@
+{
+  "name": "winston-splunk-hec",
+  "version": "1.0.0",
+  "description": "A @winstonjs logger transport for splunk HTTP event collector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doriitamar/winston-splunk-hec.git"
+  },
+  "keywords": [
+    "winston",
+    "splunk",
+    "hec"
+  ],
+  "author": "Itamar Dori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doriitamar/winston-splunk-hec/issues"
+  },
+  "homepage": "https://github.com/doriitamar/winston-splunk-hec#readme",
+  "dependencies": {
+    "async-mutex": "^0.2.2",
+    "axios": "^0.19.2",
+    "winston": "^3.2.1"
+  }
+}
