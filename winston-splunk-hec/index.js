@@ -97,7 +97,7 @@ class SplunkHec extends Transport {
 
   log(info, callback) {
     setImmediate(() => {
-      this.emit('logged', level);
+      this.emit('logged', info);
     });
 
     if(this.buffering) {

@@ -1,6 +1,6 @@
 {
   "name": "winston-splunk-hec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A @winstonjs logger transport for splunk HTTP event collector",
   "main": "index.js",
   "scripts": {
