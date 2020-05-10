@@ -6,7 +6,7 @@ transport for the [winston](https://github.com/winstonjs/winston) logging toolki
 ## Installation
 
 ```sh
-npm install --save winston winston-elasticsearch
+npm install --save winston winston-splunk-hec
 ```
 
 ## Usage
