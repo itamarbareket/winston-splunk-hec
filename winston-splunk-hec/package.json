@@ -1,6 +1,6 @@
 {
   "name": "winston-splunk-hec",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A @winstonjs logger transport for splunk HTTP event collector",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/doriitamar/winston-splunk-hec#readme",
   "dependencies": {
-    "async-mutex": "^0.2.2",
     "axios": "^0.19.2",
     "winston": "^3.2.1"
   }
