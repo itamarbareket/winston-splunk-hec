@@ -27,6 +27,6 @@
   },
   "devDependencies": {
     "abstract-winston-transport": "^0.5.1",
-    "mocha": "^7.1.2"
+    "mocha": "^10.2.0"
   }
 }
